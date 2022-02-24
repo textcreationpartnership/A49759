@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two funeral sermons of the use and happiness of humane bodies Preached on I Corinth. vi. 13. Now the body is not for fornication, but for the Lord, and the Lord for the body. With a brief account of the life and death of Mr. G. Lorimer, merchant; upon the occasion of whose death the second sermon was preacht. By Edward Lawrence, M.A. minister of the Gospel.</title>
+            <author>Lawrence, Edward, 1623-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49759</idno>
+            <idno type="STC">Wing L655</idno>
+            <idno type="STC">ESTC R216653</idno>
+            <idno type="EEBO-CITATION">99828378</idno>
+            <idno type="PROQUEST">99828378</idno>
+            <idno type="VID">32805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1953:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two funeral sermons of the use and happiness of humane bodies Preached on I Corinth. vi. 13. Now the body is not for fornication, but for the Lord, and the Lord for the body. With a brief account of the life and death of Mr. G. Lorimer, merchant; upon the occasion of whose death the second sermon was preacht. By Edward Lawrence, M.A. minister of the Gospel.</title>
+                  <author>Lawrence, Edward, 1623-1695.</author>
+               </titleStmt>
+               <extent>[4], 80 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.R. for T. Parkhurst, at the Bible and Three Crowns in Cheap-side,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The life of Mr. Gilbert Lorimer, late merchant of London" has caption title; register and pagination are continuous.</note>
+                  <note>Reproduction of the original in Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lorimer, Gilbert --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st VI, 13 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32805:1"/>
+            <pb facs="tcp:32805:1"/>
+            <p>TWO Funeral Sermons OF THE Uſe and Happineſs OF HUMANE BODIES.</p>
+            <p>Preached on 1 CORINTH. vi. 13. Now the Body is not for Fornicati<g ref="char:EOLhyphen"/>on, but for the Lord, and the Lord for the Body.</p>
+            <p>WITH A brief Account of the Life and Death of Mr. <hi>G. Lorimer,</hi> Mer<g ref="char:EOLhyphen"/>chant; upon the occaſion of whoſe Death the ſecond <hi>Sermon</hi> was Preacht.</p>
+            <p>By <hi>Edward Lawrence,</hi> M. A. Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. R.</hi> for <hi>T. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheap<g ref="char:EOLhyphen"/>ſide,</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32805:2"/>
+            <pb facs="tcp:32805:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou haſt many Diſ<g ref="char:EOLhyphen"/>courſes of the Souls of Men: And here I offer thee one Plain and Short Diſ<g ref="char:EOLhyphen"/>courſe of Mans Body, yet al<g ref="char:EOLhyphen"/>ſo with reſpect to the Soul: It will cost thee but a very little Time to read it, and but a very little Money to buy it; If it may be of any uſe to pre<g ref="char:EOLhyphen"/>ſerve
+<pb facs="tcp:32805:3"/>thee from wasting thy Time at the Door of Eterni<g ref="char:EOLhyphen"/>ty, and from loſing thy Soul in a vain Religion, and to ſave thee from a ſtinging Death, and tormenting Eter<g ref="char:EOLhyphen"/>nity, I have my end.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Febr.</hi> 17th. 1689/90.</date>
+               </dateline>
+               <signed>Thy Servant for Jeſus ſake, <hi>Edward Lawrence.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32805:3"/>
+            <head>THE BODY FOR THE LORD.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 COR. 6.13.</bibl>
+                  <p>—Now the Body is not for fornication, but for the Lord, and the Lord for the Body.</p>
+               </q>
+            </epigraph>
+            <p>IT is ordinary for Nations and Cities, Families, and Perſons, to be in a ſpecial manner inclined to ſome particu<g ref="char:EOLhyphen"/>lar ſins. The <hi>Cretians</hi> were bran<g ref="char:EOLhyphen"/>ded
+<pb n="2" facs="tcp:32805:4"/>for a Lying People, <hi>Tit.</hi> 1.12. The <hi>Cretians</hi> are always Lyars: And the <hi>Jews</hi> alſo to whom St. <hi>James</hi> writes, ſeem by his Epiſtle, to be much addicted to the Sins of the Tongue; and this is exempli<g ref="char:EOLhyphen"/>fied in the <hi>Corinthians,</hi> which were much given to Fornication; and therefore we read that in <hi>Corinth</hi> there was a Temple erected for this Sin! One reaſon of the pre<g ref="char:EOLhyphen"/>valency of this Sin amongſt them, was an Opinion of the <hi>Gentiles</hi> which prevailed in <hi>Corinth,</hi> that Fornication was no ſin, but a thing indifferent. Hereupon the Apoſtle in this Chapter pleads againſt this Sin; the argument he uſes againſt it is, That this ſin is againſt the right uſe of the Body of Man. Now ſaith he, <hi>The Body is not for Fornication,</hi> &amp;c.</p>
+            <p>The words ſhew us the true and proper uſe of Mans Body; And this is expreſs't</p>
+            <pb n="3" facs="tcp:32805:4"/>
+            <p n="1">(1.) Negatively the Body is not for Fornication.</p>
+            <p n="2">(2.) Affirmatively: But for the Lord: And this is amplified by another propoſition, which ſhews why the Body is, and ought to be for the Lord, <hi>viz.</hi> The Lord is for the Body: By the Lord is here meant the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt; as appears by his be<g ref="char:EOLhyphen"/>ing mentioned with God the Fa<g ref="char:EOLhyphen"/>ther, <hi>ver.</hi> 14. and hath both raiſed up the Lord. The words chiefly teach us Two Doctrines.</p>
+            <p n="1">I. <hi>The Body of Man is for the Lord Jeſus Chriſt.</hi>
+            </p>
+            <p n="2">II. <hi>The Lord Jeſus Chriſt is for the Body of Man.</hi>
+            </p>
+            <p n="1">I. <hi>The Body of Man is for the Lord Jeſus Chriſt.</hi> Method,</p>
+            <p n="1">1. What is meant by the Bo<g ref="char:EOLhyphen"/>dy of Man?</p>
+            <pb n="4" facs="tcp:32805:5"/>
+            <p n="2">2. What is it for the Body of Man to be for the Lord.</p>
+            <p n="3">3. The reaſons of the Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p n="4">4. Uſe. By the Body of Man is meant, that viſible and eſſen<g ref="char:EOLhyphen"/>tial part of Man which is diſtinct from the Soul and Spirit, this is that part of Man, which was at firſt form'd out of the duſt of the ground. <hi>Gen.</hi> 2.7. and at death, re<g ref="char:EOLhyphen"/>turns to the Earth, when the Spirit returns to God that gave it. <hi>Eccleſ.</hi> 12.7. This is viſible may be ſeen and felt; and there<g ref="char:EOLhyphen"/>fore Chriſt demonſtrates his Bo<g ref="char:EOLhyphen"/>dy by this, <hi>Luke</hi> 24.39. Behold my hands and my feet, handle and ſee, for a Spirit hath not Fleſh and Bones, as ye ſee me have.</p>
+            <p n="3">3. This is diſtinct from the Soul, as appears, <hi>verſe</hi> the laſt of this Chapter, <hi>Glorifie God in your Body and in your Spirit, viz.</hi>
+               <pb n="5" facs="tcp:32805:5"/>In your Body and Soul. Now this Body is for the Lord which implies Four things.</p>
+            <p n="1">1. The Body with all the Members of it in particular are for the Lord. The Eyes, Ears, Tongus, Hands, Feet, are for the Lord. They have all work to do for the Lord Chriſt. And its a great piece of Skill to un<g ref="char:EOLhyphen"/>derſtand what is the main uſe we are to make of our Senſes, and of the Members, and Limbs of our Bodies. What is the chief work theſe are to be em<g ref="char:EOLhyphen"/>ployed in, they are to be uſed for the Lord, they are to work for the Lord Chriſt.</p>
+            <p n="2">2. The Life, Health, Strength and Activity of all theſe is for the Lord, <hi>Rom.</hi> 14.8. <hi>Whether we live, we live unto the Lord:</hi> If we have better Health and Strength than others, it is that
+<pb n="6" facs="tcp:32805:6"/>in the uſe thereof we may do more for the Lord than others.</p>
+            <p n="3">3. All things that are for the uſe and ſervice of the Body, are to be uſed for the Lord, that with them you ſhould ſerve him. What Chriſt appointed his Diſciples to ſay in a ſpecial caſe concerning the Aſs, and the Colt, <hi>Mat.</hi> 21.3. <hi>The Lord bath need of them,</hi> is true in ordinary caſes. The Lord hath need, or uſe for them, your Money, Cattel, Corn, Goods, and Apparel; that with them you ſhould ſerve him, your Meat and Drink, Preferments, and Eſtates, Houſes, and Lands are for the good of your Bodies; but you muſt eat and drink to the Lord, 1 <hi>Cor.</hi> 10.31. You muſt honour the Lord with your ſubſtance, <hi>Prov.</hi> 3.9. When you buy or ſell, or build, be able to ſay, I get this Money for the Lord, I trade in this Shop for
+<pb n="7" facs="tcp:32805:6"/>the Lord, I build theſe Houſes for the Lord. The Lord Jeſus ſhall have all at his ſervice, and for his Glory. The Heavens, Earth, Seas, <hi>&amp;c.</hi> muſt praiſe the Lord by your Mouths.</p>
+            <p n="4">4. All the time of Bodily Ser<g ref="char:EOLhyphen"/>vice. The time wherein we are in the Body is for the Lord. <hi>Pſ.</hi> 148.12, 13. <hi>Both young Men and Maidens, old Men and chil<g ref="char:EOLhyphen"/>dren, let them praiſe the name of the Lord.</hi> A young Boy or Girl hath work to do for the Lord. You ſhould make all your Works, and Recreations ſerviceable to the Lord. There is no time, but you may find ſomething to do for God.</p>
+            <p n="2">2. What is it for the Body to be for the Lord? Account in ſeven particulars.</p>
+            <p n="1">(1.) It is for the Lord chiefly: This doth not exclude our Natu<g ref="char:EOLhyphen"/>ral, much leſs our Spiritual Self:
+<pb n="8" facs="tcp:32805:7"/>Neither doth it exclude our Fa<g ref="char:EOLhyphen"/>milies, Relations, or the Publick, the Body is for all theſe in their places, but chiefly for the Lord, and for all theſe things in, and to the Lord. The Body is for Food and Raiment, for to get Money and Wealth, <hi>&amp;c.</hi> in their places, but the Body with all theſe muſt be for the Lord, as the laſt end. You may take all the good God hath put in any Creature, for your uſe and ſervice, but you muſt honour and ſerve God in the uſe of it. And its moſt certain that any Creature is beſt to you, and you have moſt of the Com<g ref="char:EOLhyphen"/>fort and ſweetneſs of it, when you do honour, and ſerve God with it: You will eat and drink with as true gladneſs of Heart as any Man alive, when you eat to the Lord, and drink to the Lord; and you may get, and keep riches with as much dili<g ref="char:EOLhyphen"/>gence,
+<pb n="9" facs="tcp:32805:7"/>and care as others; and you will take as much pleaſure in your Houſes and Lands, and Sil<g ref="char:EOLhyphen"/>ver, and Gold, as any when you look on your eſtates as the Lords and improve them for him, and are ready to forſake them for him.</p>
+            <p n="2">(2) That our Bodies are not our own; we are not the chief and abſolute Lords and Maſters of our ſelves, <hi>ver.</hi> 19. of this Chapter: <hi>Ye are not your own: Rom.</hi> 14.7. <hi>None of us liveth to himſelf:</hi> They were ignorant Atheiſts that ſaid, <hi>Pſal.</hi> 12.4— <hi>Our Lips are our own.</hi> VVe cannot according to our own VVills and Pleaſures diſpoſe of ſo much as a glance of our Eyes, or a word of our Tongues.</p>
+            <p n="3">(3.) Our Bodies are not for Sin. <hi>The Body is not for Fornica<g ref="char:EOLhyphen"/>tion,</hi> ſaith the Text. Thy Body was not made for Whoremon<g ref="char:EOLhyphen"/>gers,
+<pb n="10" facs="tcp:32805:8"/>and Harlots, thy Tongue was not made for Oaths, Lyes, and evil Speaking. Thy Eyes are not for wanton looks, to be gazing on Spectacles of Un<g ref="char:EOLhyphen"/>cleanneſs. God did not make the Body to diſhonour himſelf. The Apoſtle tells us, <hi>Rom.</hi> 8.12. We are Debtors, we owe our ſelves, but not to the Fleſh; we owe Sin and the Devil no ſer<g ref="char:EOLhyphen"/>vice, we are not to go a ſtep in their Work; God-did not ſo curiouſly frame that Head, and thoſe Limbs of thine for the De<g ref="char:EOLhyphen"/>vil, and Sin, <hi>Rom.</hi> 8.12. <hi>Let not ſin reign in your mortal Bodies.</hi> The meaneſt Finger or Toe in thy Body is too good to be an Inſtrument of Sin.</p>
+            <p n="4">(4.) The Body is not for the VVorld; ſo as to be employed for it as its Chief Maſter, or its chief end, Mammon was not made for your Maſter, but your
+<pb n="11" facs="tcp:32805:8"/>Servant: The VVorld is for you, and not you for the VVorld. The body of man was made for a high<g ref="char:EOLhyphen"/>er buſineſs, than only or chiefly, to gather and heap up the Riches of the World; and therefore when the Body is employed about the World, we muſt ſee we are for God therein, this is the true goodneſs of the World, that it's good to make a Man more uſeful for God, and more ſerviceable to him. For a Man to be buſied about Silver and Gold, and about Houſes and Lands, and Goods and Cattels, except he can thereby do ſome ſervice for God, it is not worth the Labour of a Man, <hi>Prov.</hi> 14.24. The Crown of a wiſe Man is his Riches: Riches are a Mans Crown and Glory; when Men are ſo wiſe as to uſe them for God, otherwiſe they are their ſnares, curſe, and ſhame.</p>
+            <pb n="12" facs="tcp:32805:9"/>
+            <p n="5">(5.) The Body is for the Lord, ſo as to be an Inſtrument of Obe<g ref="char:EOLhyphen"/>dience to the Lord. Its to be em<g ref="char:EOLhyphen"/>ploy'd in the Lords work in that which he ſets it about, <hi>Rom.</hi> 6.10. <hi>Yield your Members Servants to Righteouſneſs, unto Holineſs.</hi> Our Bodies are at the Command of God, and ſhould be al<g ref="char:EOLhyphen"/>wayes doing the Will of God. Whatever we do, we ſhould be able to ſay, We are doing the Lords Work, and with our Sa<g ref="char:EOLhyphen"/>viour we are about our Fathers buſineſs.</p>
+            <p n="6">(6.) The Body is for the Lord, <hi>i. e.</hi> for the Honour and Glory of the Lord. So <hi>verſe</hi> the laſt of this <hi>Chapter, Glorifie God in your Bodies and Spirits: Phil.</hi> 1.20. <hi>That Chriſt may be glorified in my Body.</hi> We ſhould give that account of all our actions, as <hi>David</hi> did of his dancing before the Ark: 2 <hi>Sam.</hi> 6.21. <hi>It was before the
+<pb n="13" facs="tcp:32805:9"/>Lord:</hi> And it ſhould be ſaid of us, as <hi>Rom.</hi> 4.6. <hi>He that eateth, eateth to the Lord:</hi> Every Mem<g ref="char:EOLhyphen"/>ber of our Bodies may be uſeful in its place to bring Glory to God: And we often ſee, how ve<g ref="char:EOLhyphen"/>ry much God is glorified by one Holy and Sanctified Body, Oh what a bleſſed place <hi>London</hi> would be, if all the Bodies which you ſee in the Houſes, Shops, and Streets were employed for the Glory of God.</p>
+            <p n="7">(7.) Our Bodies are for the Lord, ſo as to be at the Lords diſpoſal. He may chuſe which way he will ſerve himſelf of our Bodies: He ſets us the bounds for the Habitations of our Bo<g ref="char:EOLhyphen"/>dies, <hi>Acts</hi> 17.26. that we may fill our places with the Name and Glory of God. He appoints us our Work and Callings, <hi>Mark</hi> 13.24. <hi>To every Man his Work:</hi> A Miniſter hath his Work, a
+<pb n="14" facs="tcp:32805:10"/>Tradeſ-man his Work, a Maſter his Work, a Servant his Work, and whatſoever a Mans Calling, Work and Way is, he ſhould work for God therein, and la<g ref="char:EOLhyphen"/>bour to have Communion with God therein; 1 <hi>Cor.</hi> 7.24. <hi>Bre<g ref="char:EOLhyphen"/>thren, Let every Man wherein he is called therein abide with God;</hi> He meaſures out to us our out<g ref="char:EOLhyphen"/>ward Eſtates, and Conditions. Some are to be rich for God, and others to be poor for God; to ſome he gives Healthful, Strong, Comely Bodies; to others Sick, Diſeaſed, Lame, Blind Bodies; and however he diſpoſeth of them, they have their Way, and Work for the Lord. And we often ſee to the ſhame of others, how the Blind, Lame, and De<g ref="char:EOLhyphen"/>formed will find Work to do for God, and that in many Families a Blind or Lame Child becomes a Member and Spouſe of Chriſt,
+<pb n="15" facs="tcp:32805:10"/>when perhaps their Brothers, and Siſters, that have their Sight, and Limbs, and are comely, and do greatly diſhonour God, and make their handſom Bodies in<g ref="char:EOLhyphen"/>ſtruments of Sin, and Firebrands of Hell.</p>
+            <p>Two Reaſons of the Doctrine.</p>
+            <list>
+               <item>I. <hi>Becauſe the Body is the Lords.</hi>
+               </item>
+               <item>II. <hi>The Body hath much work to do for the Lord.</hi>
+               </item>
+            </list>
+            <p n="1">I. <hi>The Body is the Lords:</hi> He is the chief Lord and Owner of your Bodies, as well as of your Souls. See <hi>verſe</hi> the laſt of this Chapter, <hi>Glorifie God in your Bo<g ref="char:EOLhyphen"/>dies, and Spirits, which are Gods.</hi> So in the Text, <hi>The Lord for the Body.</hi> This ſeems to be the rea<g ref="char:EOLhyphen"/>ſon of the Text: Or as ſome turn the Phraſe, <hi>The Lord is the God of the Body.</hi> God is the Lord of
+<pb n="16" facs="tcp:32805:11"/>the Body, by a five fold right, all which ſhew the Body is for the Lord.</p>
+            <p n="1">1. He is the Maker of the Bo<g ref="char:EOLhyphen"/>dy, as he made all other things, ſo alſo did he make the Bodies of Men, for himſelf. Therefore ſaith <hi>David, Pſal.</hi> 139.14. <hi>I will praiſe thee, for I was fearfully and wonder<g ref="char:EOLhyphen"/>fully made:</hi> He hath made the Bo<g ref="char:EOLhyphen"/>dies of Men capable of doing him more Service, and bringing him more Glory than any other Bo<g ref="char:EOLhyphen"/>dies are capable of. He hath gi<g ref="char:EOLhyphen"/>ven Man a Tongue to call on God, and to fill the World with the praiſes of God.</p>
+            <p n="2">2. Our Bodies are the Lords by purchaſe. He hath bought them with a great price; <hi>verſe</hi> the laſt of this <hi>Chapter, Ye are bought with a price.</hi> Obſerve, Your Bodies are bought with a price, therefore they are Gods to glorifie him. God hath
+<pb n="17" facs="tcp:32805:11"/>bought, and paid for every good word thou canſt ſpeak, for the uſe of every Finger or Toe in thy Body: He hath bought all theſe for his Service, 1 <hi>Pet.</hi> 1.17, 18. God did not purchaſe us at ſo dear a rate, to leave us to live the Lives of Slaves to the Devil, the World, and Sin, but that we might live the Lives of the Sons and Heirs of God, and of Chriſt.</p>
+            <p n="3">3. By Union with the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, he is the Owner of his whole ſelf, and every Mem<g ref="char:EOLhyphen"/>ber of his is for himſelf: With this reaſon the Apoſtle proves, that our Bodies are for the Lord; <hi>ver.</hi> 15. <hi>Know ye not that your Bodies are the Members of Chriſt,</hi> and thence he infers, <hi>Shall I take the Member of Chriſt,</hi> &amp;c. VVe ſhould do nothing with our Bodies, but what is fit to be done by a part of Jeſus Chriſt. Shall
+<pb n="18" facs="tcp:32805:12"/>I ſwear, or lie with the Tongue that is a part of Chriſt. Shall I make any part of Chriſt drunk or unclean, or worldly, no cer<g ref="char:EOLhyphen"/>tainly, our Bodies being Parts and Members of Chriſt, ſhould be moved at the VVill and Plea<g ref="char:EOLhyphen"/>ſure, and for the Honour of our Head in Heaven.</p>
+            <p n="4">4. By Dedication, Our Bo<g ref="char:EOLhyphen"/>dies are dedicated to the Honour and Service of God, <hi>ver.</hi> 19. <hi>What know you not that your Bodies are the Temples of the Holy Ghoſt, which is in you, and is of God.</hi> And therefore, ſaith he, <hi>Ye are not your own, ye are for the Lord, whoſe Temples you are.</hi> Theſe Temples ſhould be kept Holy and Pure, and for the Uſe and Service of God. You may eaſily conceive what a horrid thing it would have been to have ſeen a Company of People VVhoring, and Drunk, and Swearing, and
+<pb n="19" facs="tcp:32805:12"/>Fighting in the Temple of God. What make the Temple of God a Bawdyhouſe? No, The Tem<g ref="char:EOLhyphen"/>ple of God is to be a Houſe of Prayer, a place Devoted to the Service of God; ſo it's a very horrid thing that our Bodies which are the Temples of God, ſhould be filled with all manner of Sin. Eyes full of Adultery, Mouths full of Lies and Oaths; and the whole Temple of God filled with all manner of Sin. Be<g ref="char:EOLhyphen"/>loved we know the Glory of God was ſeen in the Temple; his Glory did ſhine in the Temple, and indeed we may ſee the Glory of God in the very Looks, Coun<g ref="char:EOLhyphen"/>tenances, and Languages, and Behaviour of the very Bodies of Holy Men, which ſpeak their Bodies to be the Temples of God.</p>
+            <p n="5">5. By Covenant This is one great uſe of Baptiſme, and the
+<pb n="18" facs="tcp:32805:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:32805:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:32805:14"/>Lords Supper, that we do there<g ref="char:EOLhyphen"/>in bind our ſelves, our Souls and Bodies to be for the Lord. So that it may be ſaid of us, as in <hi>Deut.</hi> 26.17, 18. <hi>Thou haſt avou<g ref="char:EOLhyphen"/>ched the Lord this day to be thy God.</hi> Or, As ſome read it, Thou haſt made the Lord ſay this day that he will be a God to thee. <hi>verſe</hi> 18. The Lord hath made thee ſay this day, <hi>That you will be a peculiar People unto him:</hi> And every time we ſtand before God to worſhip him in the uſe of any Ordinance: We do pro<g ref="char:EOLhyphen"/>feſs our Bodies to be the Lords, and for him.</p>
+            <p n="2">II. <hi>Reaſ.</hi> Becauſe there is much work for the body to do for the Lord. The Commands of God bind the body to Obedience, as well as the Soul. Jeſus Chriſt lived here in the body, and left us an Example of bodily ſervice,
+<pb n="21" facs="tcp:32805:14"/>and ſufferings. Our profeſſion of Religion muſt be by the body, <hi>Rom.</hi> 10.10. <hi>With the heart man believeth, and with the mouth con<g ref="char:EOLhyphen"/>feſſion is made to Salvation.</hi> We muſt by the uſe of our bodies con<g ref="char:EOLhyphen"/>feſs Chriſt before Men, that he may confeſs us before his Father in Heaven, <hi>Matth.</hi> 10.32. We muſt with our bodies worſhip God in all the Ordinances of Worſhip. We muſt pray with our bodies as well as our Souls. We cannot hear or read the Word but in the uſe of our bo<g ref="char:EOLhyphen"/>dies. The Sacraments are bodi<g ref="char:EOLhyphen"/>ly Signs, that by them we may with our bodies as well as our Souls Worſhip God. We can<g ref="char:EOLhyphen"/>not eat or drink in the Lords Supper without the Body. Wa<g ref="char:EOLhyphen"/>ter in Baptiſme is to waſh the Body: Our Bodies are to be em<g ref="char:EOLhyphen"/>ployed in our particular Callings for the Lord. The Graces of
+<pb n="22" facs="tcp:32805:15"/>Gods Spirit come into the Soul by the Body, <hi>Rom.</hi> 10.17. <hi>Faith cometh by hearing:</hi> And all the Graces are exerciſed by the Bo<g ref="char:EOLhyphen"/>dy. <hi>I believed, therefore have I ſpoken.</hi> The Soul ſets the Body on work, <hi>Pſ.</hi> 45.1. My Heart is inditing a good matter, <hi>&amp;c.</hi> and my Tongue is the Pen of a rea<g ref="char:EOLhyphen"/>dy Writer, <hi>Matth.</hi> 12, 34, 35. <hi>Out of the abundance of the heart the mouth ſpeaketh. A good man out of the good treaſure of his heart bringeth forth good things.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SES.</hi>
+               <list>
+                  <item>I. <hi>Of Dehortation.</hi>
+                  </item>
+                  <item>II. <hi>Of Exhortation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I. For the Firſt: <hi>Of Debortati<g ref="char:EOLhyphen"/>on.</hi> In reſpect,
+<list>
+                  <item>1. Of the Bodies of others.</item>
+                  <item>2. Of our own Bodies.</item>
+               </list>
+            </p>
+            <pb n="23" facs="tcp:32805:15"/>
+            <p n="1">(1.) If the Bodies of Men are for the Lord, do not debauch or corrupt any Perſons by enticing them to bodily Sins: Do not draw them to Whoredom and Drunkenneſs: They have a better Maſter to ſerve, and better work to do; they may be honouring and ſerving God whilſt they are ſerving thy Luſts. Their Bo<g ref="char:EOLhyphen"/>dies may be better employed, than by Drinking and Whoring with thee; entice no body to any thing, but what their bodies were made and purchaſed for: Draw them to nothing but what is fit for a Spouſe and Member of Chriſt to do.</p>
+            <p n="2">(2.) Do no wrong to the bo<g ref="char:EOLhyphen"/>dies of any Perſons, by unjuſt beating them, or hurting them. How dareſt thou diſable any per<g ref="char:EOLhyphen"/>ſon for the ſervice of God. You Maſters, be not cruel to your Apprentices, their bodies are for
+<pb n="24" facs="tcp:32805:16"/>the Lord: You would not ſtarve or overwork or abuſe a dear Horſe that coſt many Pieces. Look on thy Apprentice, he is a dear Child, do not abuſe that body which was bought with the blood of God; prize it and che<g ref="char:EOLhyphen"/>riſh it for the Owners ſake.</p>
+            <p n="3">(3.) Do not cheat any of their bodily Wealth, by Theft, by Over-reaching them in buying or ſelling; by withholding the juſt Debts which thou oweſt. They and their Eſtates are for the Lord, and the Lord will con<g ref="char:EOLhyphen"/>cern himſelf to take vengeance on thee, 1 <hi>Theſs.</hi> 4.6. It may be ſad to many to think that they have conſum'd that on their Luſts, for which many Parents and their Children would be bleſ<g ref="char:EOLhyphen"/>ſing God for<g ref="char:punc">▪</g> And here I may warn Husbands and Wives, and Parents, that they conſume not the bodily Wealth which is for
+<pb n="25" facs="tcp:32805:16"/>the good of their Yokefellows and Children. Oh what a cruel Husband or Wife art thou who haſt conſum'd that on thy luſts which would have maintained thy Yokefellow: And how can Parents endure their Children ſhould cry. We might have been better Scholars, or might have had better Trades or Portions, had it not been for our Fathers and Mothers Luſts.</p>
+            <p n="2">II. <hi>Dehortation.</hi> In reſpect of your own Bodies. Do not abuſe your own Bodies by Sin. This ſets all the Members of the Body againſt the Lord, which ſhould be for the Lord: Let not your bodies be us'd as Inſtruments to execute or bring forth the ſins of your hearts; Remember the Apoſtle, <hi>Rom.</hi> 6.12. <hi>Let not ſin reign in your mortal Bodies.</hi> More particularly keep your Bodies clean from theſe four ſorts of Sins.</p>
+            <pb n="26" facs="tcp:32805:17"/>
+            <p n="1">(1.) All manner of Whoredom and Uncleanneſs. Mark the Text, <hi>The Body is not for Fornication, but for the Lord,</hi> ſee <hi>ver.</hi> 18. How the Apoſtle pleads againſt this Sin as being more againſt the Body than other Sins: <hi>Flee Fornication,</hi> ſaith he: The rea<g ref="char:EOLhyphen"/>ſon follows: Every ſin that a man doth is without the Body, but he that committeth Fornication ſinneth againſt his own Body, <hi>i. e.</hi> Although the Body be the Organ or Inſtrument to execute other ſins, yet the matter which by ſin is abus'd, lies more with<g ref="char:EOLhyphen"/>out the body. The Drunkard hurts this body, but he abuſes Wine, and Drink which is with<g ref="char:EOLhyphen"/>out the body; but in Whoredom the body is the Inſtrument of ſin, and that which is abuſed by ſin: But theſe things are ſpoken com<g ref="char:EOLhyphen"/>paratively; the words ſhew what a wrong Whoredom is to a mans
+<pb n="27" facs="tcp:32805:17"/>body: See <hi>ver.</hi> 15. how the Apo<g ref="char:EOLhyphen"/>ſtle pleads againſt it as a moſt loathſom thing to take a part &amp; member of Chriſt, and make it a member of an Harlot, to joyn any part of Chriſt to a Harlot. This is a ſin rots the Name, rots the Body, by this the fleſh and the body are conſum'd, <hi>Prov.</hi> 5.11. and brings body and Soul to Hell, <hi>ver.</hi> 9, 10. of this Chap. <hi>Forni<g ref="char:EOLhyphen"/>cators and Adulterers ſhall not in<g ref="char:EOLhyphen"/>herit the Kingdom of God:</hi> It's matter of grief and aſtoniſh<g ref="char:EOLhyphen"/>ment that this ſin ſhould be pra<g ref="char:EOLhyphen"/>cticed with ſuch horrid Impu<g ref="char:EOLhyphen"/>dence by a people that profeſs their bodies to be Members of Chriſt, and in a Land where the Bible is read that tells them, <hi>Whoremongers and Adulterers God will judge, Heb.</hi> 13.4. And that people will not believe how lit<g ref="char:EOLhyphen"/>tle a way it is between the defi<g ref="char:EOLhyphen"/>led Bed, and the Fire of Hell.</p>
+            <pb n="28" facs="tcp:32805:18"/>
+            <p n="2">(2.) Drunkenneſs, to which may be added gluttony: Theſe things ſet the body in a readineſs to do any thing for the Devil and Sin, but render it unfit for the ſervice of the Lord. A Drun<g ref="char:EOLhyphen"/>kard in his drink may ſwear, blaſ<g ref="char:EOLhyphen"/>pheme, and Whore, and Murder. But can a Man pray when he is drunk, hear Sermons, or re<g ref="char:EOLhyphen"/>ceive Sacraments, or have Com<g ref="char:EOLhyphen"/>munion with God in any thing when he is drunk? When a Man is drunk, he is not fit Company for a Man, how then can he at that time be fit for Communion with God? Pray therefore that nothing may enter into thy Mouth which may defile thy Soul, diſeaſe thy Body, unfit thee for the ſervice of God, or waſte the Creatures on thy craving and conſuming Luſts.</p>
+            <p n="3">(3.) Sins of the Eyes. A great deal of Sin or Grace is ſeen in the
+<pb n="29" facs="tcp:32805:18"/>Looks or Countenances of People: There are proud Looks, wanton Looks, envious Looks and angry Looks; but when the Soul and Body is ſerving the Lord, it puts another Face and Coun<g ref="char:EOLhyphen"/>tenance on Men. It makes them look with a holy, humble, chaſte, loving, and chearful countenance</p>
+            <p>
+               <hi>Laſtly,</hi> Sins of the Tongue, <hi>Jam.</hi> 3.6. How would it tame our Tongues, if we conſider'd our Tongues are for the Lord: And what a great deal of Honour one wholſome Tongue brings to the Lord; and we ſhould not ſpeak a word, but it ſhould be ſome way or other for the Lord.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Of Exhortation,</hi> which refers.</p>
+            <p n="1">1. To others.</p>
+            <p n="2">2. To our ſelves.</p>
+            <p>For the Firſt, Is the Body for the Lord: Thence infer three Duties to others.</p>
+            <pb n="30" facs="tcp:32805:19"/>
+            <p n="1">(1.) Put a true value on the ve<g ref="char:EOLhyphen"/>ry bodies of all Men. Look on them as for the Lord, and prize them accordingly, 1 <hi>Pet.</hi> 2.17. <hi>Honour all Men:</hi> Wherever you ſee the body of a Man, Woman, or Child, be they never ſo poor, or weak, or deformed, yet con<g ref="char:EOLhyphen"/>ſider theſe bodies were made for the Lord, bought for the Lord, and may be Members of the Lord, and therefore love and eſteem the bodies of Men for the Lord's ſake.</p>
+            <p n="2">(2.) Do all the good you can, not only to the Souls, but to the Bodies of Men: This is the great duty of the Sixth Commandment, which binds you to your power to endeavour to preſerve the Life, Health, Liberty and Chear<g ref="char:EOLhyphen"/>fulneſs of Men: Therefore do them good on this reaſon, be<g ref="char:EOLhyphen"/>cauſe their bodies are for the Lord; and you may fit them,
+<pb n="31" facs="tcp:32805:19"/>and make them more capable of ſerving and praiſing him.</p>
+            <p n="3">(3) Lament to ſee the horrid abuſe which moſt make of their bodies. When you ſee how moſt uſe their own bodies, can you think they uſe them for the Lord. What are Men Swearing, and Curſing, Whoring, and Drunk for the Lord; are they Lying, Cheating, and oppreſſing for the Lord? You may ſee Streets full of Sin, Shops full of Sin, Houſes full of Sin; moſt people eating and drinking, talking and work<g ref="char:EOLhyphen"/>ing for the Devil, the Fleſh, and the World; but very few doing any thing for the Lord.</p>
+            <p n="2">2. To our ſelves. Frame your Lives according to the belief of this Truth. That your bodies are for the Lord. I ſhall preſs this with a few Motives, and conclude with Directions.</p>
+            <pb n="32" facs="tcp:32805:20"/>
+            <p>
+               <hi>Mot.</hi> 1. Conſider the great ac<g ref="char:EOLhyphen"/>count you are to give to God for your own Body, <hi>Rom.</hi> 14.12. <hi>Every one of us muſt give an ac<g ref="char:EOLhyphen"/>count of himſelf to God:</hi> God will queſtion us what we have done with our ſelves, VVhat uſe we have made of our own Souls and bodies, 2 <hi>Cor.</hi> 5.10. <hi>We muſt all appear before the Judgment Seat of Chriſt, that every one may receive or carry away the things done in his Body, according to that he hath done, whether it be good or evil.</hi> Obſerve, VVhen we appear be<g ref="char:EOLhyphen"/>fore Chriſt at the day of Judg<g ref="char:EOLhyphen"/>ment, every one ſhall carry away his weight. Sinners ſhall carry away their Oaths and Lies, <hi>&amp;c. viz.</hi> the Wrath due for them. Saints ſhall carry away a weight of Glory I charge you Chriſtians as you will anſwer it to the Judge before the door, when in that fleſh and body you muſt ſtand be<g ref="char:EOLhyphen"/>fore
+<pb n="33" facs="tcp:32805:20"/>him, when he will call you to account for your Lives, Health, Eaſe, for your Speech, Sight, Hearing, and for the Members and Limbs of your bodies, for your Meat, Drink, Sleep, Eſtates; that you then be able to ſay, I have uſed this body for the Lord: remembering that of the Apoſtle, 1 <hi>Cor.</hi> 3.17. <hi>If any Man defile the Temple of God,</hi> (meaning his own Soul and Body) <hi>him will God de<g ref="char:EOLhyphen"/>ſtroy.</hi>
+            </p>
+            <p n="2">2. Conſider God accepts and will reward all that with your bodies you do for the Lord? Not ſo much as a good word ſpoken ſincerely for God, nor a loving look upon a Child of God, nor a Cup of cold Water given to a Diſciple of Chriſt, ſhall loſe its reward.</p>
+            <pb n="34" facs="tcp:32805:21"/>
+            <p n="3">3. It's but a little while, that your bodies will be fit to do any thing for the Lord. I would have thoſe who have yet Youth, and Health, and Strength to ſtu<g ref="char:EOLhyphen"/>dy the 12. of <hi>Eccleſiaſtes,</hi> where young Men are required to ſerve the Lord, <hi>ver.</hi> 1. <hi>Remember thy Creator,</hi> and the way the Holy Ghoſt uſeth to move them here<g ref="char:EOLhyphen"/>unto, is this, he ſets before them an old man with an hoary head, dim eyes, ſhaking hands, Feeble Limbs, with his Teeth rotted away, Faltring Speech, and bow'd Back, ſuch things as theſe are ſet out by thoſe Metaphorical Expreſſions, <hi>ver.</hi> 3, 4, 5, 6. and they ſerve to teach the Young and Healthful, that whenever they ſee an Old, Lame, Withered Man or Wo<g ref="char:EOLhyphen"/>man, ſitting in the Houſe, or creeping about the Streets: They ſhould conſider that they ſhould do all the ſervice they can for
+<pb n="35" facs="tcp:32805:21"/>God, now becauſe they will do ſo little, when they are in the con<g ref="char:EOLhyphen"/>dition of ſuch aged Perſons.</p>
+            <p n="4">4. Conſider, if your Bodies are employed for the Lord now, it will yield you ſweet comfort, when you can ſerve God no lon<g ref="char:EOLhyphen"/>ger, or at leaſt do him but little ſervice, <hi>Pſ.</hi> 71.17, 18. God will never forſake an Old Ser<g ref="char:EOLhyphen"/>vant, or a Sick Servant.</p>
+            <p>
+               <hi>Laſtly,</hi> When ſickneſs and death comes, thou canſt have no com<g ref="char:EOLhyphen"/>fort, if thou haſt not employed thy Body for the Lord. It will be fad parting with the Body and Soul, when thou muſt leave a curſed Body to the Earth, and go with a Damned Soul to Hell, and more ſad will be their mee<g ref="char:EOLhyphen"/>ting at the Reſurrection to Con<g ref="char:EOLhyphen"/>demnation.</p>
+            <pb n="36" facs="tcp:32805:22"/>
+            <p n="7">7. <hi>Directions.</hi>
+            </p>
+            <p n="1">1. See that the whole Manbe-Sanctified, and made holy, 1 <hi>Theſs.</hi> 5.23. <hi>The very God of Peace ſan<g ref="char:EOLhyphen"/>ctifie you wholly, Heb.</hi> 10.22. <hi>Our Bodies waſhed with pure wa<g ref="char:EOLhyphen"/>ter, i. e.</hi> by the powerful Ope<g ref="char:EOLhyphen"/>ration of the Spirit, which clean<g ref="char:EOLhyphen"/>ſeth the heart from ſin, as Wa<g ref="char:EOLhyphen"/>ter waſheth the Body from Filth. When the Soul is made Holy, there will be a Holy Tongue, Ho<g ref="char:EOLhyphen"/>ly Hands, <hi>&amp;c.</hi> all will be Holy.</p>
+            <p n="2">2. Preſent your bodies to the Lord, <hi>Rom.</hi> 12.1. <hi>I beſeech you Brethren by the Mercies of God, that you preſent your Bodies a li<g ref="char:EOLhyphen"/>ving Sacrifice, Holy, acceptable to God, which is your reaſonable ſer<g ref="char:EOLhyphen"/>vice.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ren<g ref="char:EOLhyphen"/>dred, <hi>preſent;</hi> is an alluſion to the Sacrifices which were ſet before God at the Altar as ready to be offered to him; ſo we muſt
+<pb n="37" facs="tcp:32805:22"/>ſet not only our Souls, but our Bodies before the Lord as his due. Say, This Tongue, and theſe Eyes and Hands are for the Lord. Pray him to take them, and uſe them for himſelf.</p>
+            <p n="3">3. In all places you are in with your bodies, conſider what Work is to be done for the Lord, you can be no where but you may find work for the Lord, <hi>Prov.</hi> 27.8. <hi>As a Bird that wandreth from his Neſt, ſo is a man that wandreth from his place:</hi> And this I think is the intent of that Scripture, <hi>Eccleſ.</hi> 11.3. <hi>In the place where the Tree falleth</hi> (or hapneth to be) <hi>there it ſhall be,</hi> for the bene<g ref="char:EOLhyphen"/>fit and advantage of them to whom it falls. The Context ſeems to juſtifie this ſenſe, tea<g ref="char:EOLhyphen"/>ching us that every Man ought to labour to be a bleſſing in his place.</p>
+            <pb n="38" facs="tcp:32805:23"/>
+            <p n="4">4. Whatever you do for your Bodies, do it as for the Lord: Take care of your bodies: Do not wilfully bring Diſeaſes on your bodies: Preſerve your bo<g ref="char:EOLhyphen"/>dies for the Owners ſake: When you are feeding and cloathing your Bodies, ſee that you do it for the Lord: Do not eat and drink, ſo as to make you unfit for the Lord, to put your bodies out of frame for the Lord.</p>
+            <p n="5">5. All that you do with your bodies, do it to the Lord, and for the Lord: Obſerve <hi>Rom.</hi> 14.6. <hi>He that regardeth a day, regardeth it to the Lord; he that eateth, eateth to the Lord.</hi> When you are employed in your Callings, if your Working, Buying, and Sel<g ref="char:EOLhyphen"/>ling, were only to get Money, and to have great Eſtates: This were not worth the Care, and Thoughts, Words, and Time
+<pb n="39" facs="tcp:32805:23"/>of a Man; but ſee that you and yours are for the Lord. So when you are chearful, be ruled by theſe Principles, in your Laughing, Jeſting, and Mirth: Have no Mirth, but what you can bleſs God for, and have no Mirth but what you can part with, 2 <hi>Cor.</hi> 7.30. <hi>And they that rejoyce, as though they rejoyced not.</hi>
+            </p>
+            <p n="6">6. Keep a Guard on your Bo<g ref="char:EOLhyphen"/>dies, and on all the parts of them. <hi>Job</hi> made a Covenant with his Eyes, <hi>Chap.</hi> 31.1. Feed not your Luſts with wanton Ob<g ref="char:EOLhyphen"/>jects. Bridle your Tongues: <hi>Pſal.</hi> 39.1. Keep your whole Bodies in ſubjection to the Will of God.</p>
+            <p>
+               <hi>Laſtly,</hi> Give up thy Body to the Lords diſpoſal. Submit to the Lord in bodily Sickneſs, Pover<g ref="char:EOLhyphen"/>ty,
+<pb n="40" facs="tcp:32805:24"/>Impriſonment; be ready to ſuffer any thing for the Lord, and ſo leave thy Body to ſleep in Jeſus when the Lord calls for it.</p>
+         </div>
+         <div type="sermon">
+            <pb n="41" facs="tcp:32805:24"/>
+            <head>THE LORD FOR THE BODY.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 COR. 6.13.</bibl>
+                  <p>— And the Lord for the Body.</p>
+               </q>
+            </epigraph>
+            <p>Doct. 2. <hi>THE Lord Jeſus Chriſt is for the Body of Man.</hi>
+            </p>
+            <p>I ſhall give account of the Do<g ref="char:EOLhyphen"/>ctrine under theſe Heads.</p>
+            <pb n="42" facs="tcp:32805:25"/>
+            <p n="1">I. What are we to underſtand by the Lord Jeſus his being for the Body.</p>
+            <p n="2">II. What doth Jeſus Chriſt do for the Body of Man.</p>
+            <p n="3">III. Why is Jeſus Chriſt for the Body.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SE.</hi>
+            </p>
+            <p n="1">I. By Jeſus Chriſt his being for the Body, we are to underſtand that the Lord Jeſus Chriſt doth ſet himſelf to bleſs the Body of Man, ſo as to make it unſpeak<g ref="char:EOLhyphen"/>ably happy, and bleſſed for ever. See Jeſus Chriſt in all his Glory, and then look upon that poor Worm and duſt of thy Body, and know that all the fulneſs of the Godhead, and all the fulneſs of the Manhood is in Jeſus Chriſt for the good of that poor Body; See <hi>Col.</hi> 2.9, 10. <hi>In him dwells all the Godhead Bodily,
+<pb n="43" facs="tcp:32805:25"/>and you are compleat in him who is the Head of all Principalities and Powers.</hi> Obſerve, All the fulneſs of the Godhead dwells in the Humane Nature of Chriſt; that we may be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, filled in him, and both in Body and Soul compleatly happy and bleſſed in him. There are three things implyed in the Lord Je<g ref="char:EOLhyphen"/>ſus his being for the Body.</p>
+            <p n="1">1. That he is a Saviour of the Body of Man. The whole Work of Salvation is for the Body.</p>
+            <p n="2">2. That he hath the Infinite Love and Kindneſs of a Saviour for the Body of Man, <hi>Tit.</hi> 3.4. <hi>After that the kindneſs and love of God our Saviour towards man ap<g ref="char:EOLhyphen"/>peared:</hi> Obſerve theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The words ſhew that the goodneſs it ſelf, or as I may ſay, the good Nature in the Lord Jeſus inclines
+<pb n="44" facs="tcp:32805:26"/>him to love Man. So that its eaſie and Natural to him to be kind and loving, and to have unſpeakable love and kindneſs for Man, for every part of Man, both of Body and Soul.</p>
+            <p n="3">3. That all the Attributes of the Godhead are working in the Lord Jeſus Chriſt as a Saviour to fulfil his love, and good will to the Body of Man. See the In<g ref="char:EOLhyphen"/>finite Power, Wiſdom, Juſtice, and Faithfulneſs of the Godhead in Chriſt. He hath infinite Love and good Will for the Body; Infinite Wiſdom to contrive the Happineſs of the Body; In<g ref="char:EOLhyphen"/>finite Power to execute the Coun<g ref="char:EOLhyphen"/>ſels and good Pleaſure of his Wiſ<g ref="char:EOLhyphen"/>dom, and Love for the Body of Man. See <hi>Phil.</hi> 3.20, 21. <hi>We look for the Saviour the Lord Jeſus Chriſt, who ſhall change our vile body, that it may be faſhioned like unto his glorious Body, according
+<pb n="45" facs="tcp:32805:26"/>to the working, whereby he is able to ſubdue all things to himſelf.</hi> Theſe words ſhew that the Al<g ref="char:EOLhyphen"/>mighty Power of Chriſt, where<g ref="char:EOLhyphen"/>by he is able to do what he will, is working in him to make the Body of Man glorious.</p>
+            <p n="2">II. What doth the Lord Jeſus do for the Body of Man? An<g ref="char:EOLhyphen"/>ſwer in two particulars.</p>
+            <p n="1">1. He bleſſeth the Body with Temporal things.</p>
+            <p n="2">2. He makes the Body of Man glorious and bleſſed for ever.</p>
+            <p n="1">1. He bleſſeth the Body with Temporal things, <hi>Deut.</hi> 30.20. <hi>He is thy Life and the Length of thy dayes.</hi> He gives and prolongs our Lives, <hi>Prov.</hi> 8.18. <hi>Riches and Honour are with me.</hi>
+            </p>
+            <p n="1">(1) He hath made many gra<g ref="char:EOLhyphen"/>cious promiſes for the Body. 1 <hi>Tim.</hi> 4.8. <hi>Having premiſe of this Life that now is, Mat.</hi> 6.33.
+<pb n="46" facs="tcp:32805:27"/>
+               <hi>All theſe things ſhall be added un<g ref="char:EOLhyphen"/>to you<g ref="char:punc">▪</g> Deut.</hi> 28.3, 4, 5, 6. <hi>Bleſ<g ref="char:EOLhyphen"/>ſed ſhalt thou be in the City,</hi> &amp;c. He hath ſettled all things preſent upon us, ſo far as 'tis for our good; 1 <hi>Cor.</hi> 3.22. Things pre<g ref="char:EOLhyphen"/>ſent are yours. We have the Word of God for the good of our Bodies in this Life; and certain<g ref="char:EOLhyphen"/>ly the pooreſt Saint who hath a right to the promiſes of God for things preſent, is better pro<g ref="char:EOLhyphen"/>vided for and in leſs danger of Famine, then the greateſt carnal perſon in the World; for the Ungodly have Riches, for the Body Silver, Gold, Houſes and Lands for the Body, but a Godly Man hath the Lord of all the World for the Body.</p>
+            <p n="2">(2.) His Infinite Care and Providence is exerciſed to fulfil his promiſes for the Body, <hi>Mat.</hi> 6.32. <hi>Your Heavenly Father know<g ref="char:EOLhyphen"/>eth you have need of theſe things,
+<pb n="47" facs="tcp:32805:27"/>i. e.</hi> he knoweth ſo as to ſupply our need of theſe things: And for this <hi>David</hi> tells, <hi>Pſal.</hi> 37.16. <hi>A little that a Righteous Man hath, is better than the Riches of many Wicked; becauſe,</hi> ſaith he, <hi>The Arms of the Wicked ſhall be broken, but the Lord upholdeth the Righte<g ref="char:EOLhyphen"/>ous.</hi> The Righteous have the Lord with their little, when the Wicked have often much, but the Lord is not with them, but againſt them. So that this Lord who made the World for the good of Mans body, doth exer<g ref="char:EOLhyphen"/>ciſe his glorious Providence for the bodies of his People.</p>
+            <p n="2">2. The Lord Jeſus makes the bodies of his People bleſſed and glorious for ever; and this ap<g ref="char:EOLhyphen"/>pears.</p>
+            <p n="1">(1.) By conſidering what he doth for their bodies in this Life, in order to their Eternal Happi<g ref="char:EOLhyphen"/>neſs.</p>
+            <pb n="48" facs="tcp:32805:28"/>
+            <p n="2">(2.) By conſidering what he doth for their bodies when dead.</p>
+            <p n="3">(3.) At the day of Judgment.</p>
+            <p>Laſtly, For ever.</p>
+            <p>For the Firſt, Obſerve Three things which the Lord doth in this Life for the Salvation of the bodies of his people.</p>
+            <p n="1">1. He unites their Bodies to himſelf, <hi>ver.</hi> 15. <hi>Know you not that your Bodies are the Members of Chriſt.</hi> VVhat could he have done more for that poor duſt of thine, than to make it a bleſſed part of himſelf; to make it a part of his own Myſtical Body; ſo that what is done to the very Bodies of his People, is done to himſelf, <hi>Mat.</hi> 25.35. <hi>I was Hungry, and Sick, and Naked, and Impriſon'd: Lord ſay they, when ſaw we thee ſo and ſo,:</hi> Yes ſaith he, theſe little ones are a part of me, I and they are all one, and what you did to them you did to me. Oh how
+<pb n="49" facs="tcp:32805:28"/>ſhould we be affected with the Lords being thus for the body, ſo as to make it a part of himſelf. Come and I will ſhew you the Bride, the Lambs Wife; <hi>Rev.</hi> 21.9. How or where ſhall we ſee that ſight: Why, wherever you ſee a true Believer, you ſee the Body of the true Bride and Spouſe of Jeſus Chriſt.</p>
+            <p n="2">2. He puts a Preſence and Glory on the very Bodies of his people, <hi>Eccleſ.</hi> 8.1. <hi>A Mans Wiſdom maketh his Face to ſhine:</hi> The Image of God ſhines in the very face of a Godly Man: We read, <hi>Revel.</hi> 7.3. That the Ser<g ref="char:EOLhyphen"/>vants of God muſt be ſealed in their Foreheads; which ſome think is an alluſion to Slaves, who have their Foreheads marked with the Names of their Maſters, to whom they did belong. So there may be read in the very Faces, and Countenances, and
+<pb n="50" facs="tcp:32805:29"/>Foreheads of Gods people, the Name of Chriſt, to whom they belong; for although Grace is Internal, yet the Fruits thereof appear in the outward Man: And ſo <hi>Revel.</hi> 22 4. <hi>The Name of the Lamb ſhall be on their Fore<g ref="char:EOLhyphen"/>heads:</hi> If that be ſpoken of Hea<g ref="char:EOLhyphen"/>ven, its in ſome meaſure true here; and its moſt certain that an upright, holy Saint, carries ſuch a preſence with him, that it daunts oftentimes the Wicked, and the very ſight of them puts Gods Children in mind of their Father and Saviour.</p>
+            <p n="3">3. He honours them by fitting their bodies for his Service, and uſing them therein: And indeed it is a great Honour to ſerve ſo great and good a Maſter, which made <hi>Paul</hi> ſo often Glory in that Title, <hi>The Servant of Jeſus Chriſt.</hi> Now when a Man is San<g ref="char:EOLhyphen"/>ctified, and made a new Creature,
+<pb n="51" facs="tcp:32805:29"/>his whole Soul and Body are thereby ſet for God; for his Honour and Service: We are ſaid, <hi>Epheſ.</hi> 2.10. <hi>to be Created in Chriſt Jeſus to good works,</hi> to be made fit for good Works. It's ſaid of a Godly Man, 2 <hi>Tim.</hi> 2.21. <hi>He ſhall be a Veſſel of Honour, ſanctified, and meet for the Maſters uſe, and prepared unto every good work.</hi> Thus you ſee, that by the Grace and Life of Chriſt, a Man is fit for any ſervice or ſuffering, which Duty leads him to; and hereby the Saints of God may live as a Company of Incarnate Angels in the World.</p>
+            <p n="2">II. Conſider what Chriſt doth for the Body when Dead.</p>
+            <p n="1">1. Their bleſſed Corps are continued in their Union with Chriſt. Death breaks no Union made by Grace; and therefore they are ſaid to ſleep in Jeſus,
+<pb n="52" facs="tcp:32805:30"/>1 <hi>Theſs.</hi> 4.4. And are called <hi>the dead in Chriſt, ver.</hi> 16. Where you think of, or look into the Church-yards: What a great Myſtery it is, that ſo great a part of the Bride and Spouſe of Chriſt ſhould lie amongſt thoſe ghaſtly Skuls, and rotten Duſt, and that there ſhould be more of his Members, and a greater part of his Body dead in the Earth, than are ſerving him here in the World.</p>
+            <p n="2">2. He owns their dead Bodies for his. They are Chriſts own. 1 <hi>Cor.</hi> 15.23. — <hi>Afterward they that are Chriſts at his coming.</hi> Ob<g ref="char:EOLhyphen"/>ſerve the Bodies of Believers from the hour of Death, till the coming of Chriſt, are Chriſt's all the while; when they are Chil<g ref="char:EOLhyphen"/>dren of their Earthly Parents no more, Husbands and Wives no more, yet Chriſt's ſtill.</p>
+            <pb n="53" facs="tcp:32805:30"/>
+            <p n="3">3. He loves them as his own, and as united to him: He loves their very rotten Corps as part of himſelf, as part of his own Spouſe and Members; he knows them all in the Earth; he can diſtinguiſh between the curſed Corps of Unbelievers that lie in the Graves under the Curſes of the Law, and who are bound over to ſuffer Everlaſting Fire; and the bleſſed bodies of his Saints who lie in their Graves, in a right to Heaven and Salvation: When our deareſt Relations die, we cry with <hi>Abraham, Bury my dead out of my ſight:</hi> Bury my dead Hus<g ref="char:EOLhyphen"/>band, or dead Wife, or dead Child out of my ſight, and they are all to us as dead Men out of mind; as its ſaid, <hi>Pſal.</hi> 31.12. Yet they are always in the ſight and view of Jeſus Chriſt; and when they have rotted in the Earth, or been ſwallowed up in
+<pb n="54" facs="tcp:32805:31"/>the Seas; or burnt in the Fire many Hundred years, yet theſe bleſſed bodies are precious, and lovely in the Eyes of Chriſt. Je<g ref="char:EOLhyphen"/>ſus Chriſt is always looking on the duſt of <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> of <hi>David, Paul</hi> and <hi>Peter,</hi> and all the Saints which are dead with great Love and Delight.</p>
+            <p n="3">III. Conſider what Chriſt will do for the Bodies of his people at the day of Judgment: In five particulars.</p>
+            <p n="1">1. He will raiſe up their bo<g ref="char:EOLhyphen"/>dies to Glory; and herein he is ſaid to be for the body, <hi>ver.</hi> 14. Following the Text: God hath both raiſed up the Lord, and will alſo raiſe us by his Power: As ſure as Chriſt is riſen, ſo ſure ſhall all Believers be raiſed to Life and Glory, by the ſame Po<g ref="char:EOLhyphen"/>wer that raiſed Jeſus Chriſt, <hi>Rom.</hi> 8.11. <hi>But if the Spirit of him who
+<pb n="55" facs="tcp:32805:31"/>raiſed Chriſt be in you, he that raiſed up Chriſt from the dead ſhall alſo quicken your Mortal Bodies by his Spirit that dwelleth in you.</hi> Then will he indeed ſhew himſelf for thy Body, when that Body which was at death <hi>ſown in Corruption, ſhall be raiſed in Incorruption, and which was ſown in diſhonour, ſhall be raiſed in Glory:</hi> Then ſhall thy Body and Soul which were ſo loath to part at Death, and did part with ſuch ſad gaſpings and groans, meet again in Joy and Glory, and be for ever united never to die and part more; 1 <hi>Cor.</hi> 15.42, 43, 44. And all this done in the twinkling of an Eye. <hi>ver.</hi> 52. in a moment, and all be raiſed together.</p>
+            <p n="2">2. Thy Body ſhall be faſhioned like the glorious Body of Jeſus Chriſt, <hi>Phil.</hi> 3. <hi>laſt.</hi> from whence we look for a Saviour who ſhall change our vile Body. Belie<g ref="char:EOLhyphen"/>ver
+<pb n="56" facs="tcp:32805:32"/>look upon that poor dying duſt of thy body; ſee it as it will be ſhortly amongſt the Worms of the Earth; and then believe, that the Lord is ſo for thy Body, as to exerciſe his Almighty Power, in faſhioning that Body like the glorious Body of Chriſt at the Right hand of God.</p>
+            <p n="3">3. Thou muſt in thy Body come with Chriſt, and attend him coming to Judgment, 1 <hi>Theſs.</hi> 4.14. <hi>Them that ſleep in Jeſus, will God bring with him.</hi> He will bring the Holy Patriarchs, and Prophets, and Apoſtles, and all the Saints with him. <hi>Col.</hi> 3.4. <hi>When Chriſt who is our life ſhall ap<g ref="char:EOLhyphen"/>pear, then,</hi> &amp;c. you that were ſo deſpiſed and ſcorn'd here, ſhall appear in Glory, in the open view of the World.</p>
+            <p n="4">4. They ſhall be ſolemnly own'd and acknowledg'd of Chriſt before his Father, and the
+<pb n="57" facs="tcp:32805:32"/>Holy Angels, <hi>Matth.</hi> 10.32. <hi>Luk.</hi> 12.8. The Lord Jeſus himſelf will in Effect ſay, This is my dear Spouſe and Bride; theſe are they that loved me, and ſerved me, and ſuffered for me, and were never aſhamed of me. Yon<g ref="char:EOLhyphen"/>der Tongues have ſpoken many good words for me, and yon<g ref="char:EOLhyphen"/>der hands have reached out many a kindneſs to me.</p>
+            <p>
+               <hi>Laſtly,</hi> They ſhall with their Bodies ſit with Chriſt to Judge the World, 1 <hi>Cor.</hi> 6.2, 3. The World of Ungodly Men, and all the wicked Angels, and Devils in Hell, muſt ſtand before the Saints to be judged by them: Indeed Jeſus Chriſt is the Chief and Su<g ref="char:EOLhyphen"/>pream Judge, but all his Saints ſhall ſit with him in Glory, as his Members, with all their Bo<g ref="char:EOLhyphen"/>dies, like his glorious Body: So that they ſhall then be like him, 1 <hi>John</hi> 3.2. And they ſhall
+<pb n="58" facs="tcp:32805:33"/>prove and applaud the juſt Judg<g ref="char:EOLhyphen"/>ment of Chriſt; though they ſee Jeſus Chriſt judging their Pa<g ref="char:EOLhyphen"/>rents to Hell; yet they ſhall ſee his Juſtice ſo glorious and excel<g ref="char:EOLhyphen"/>lent, and their own Glory will be ſo great, that they will be ſo far above the trouble for the Dam<g ref="char:EOLhyphen"/>nation of the neareſt Relation, that they will applaud, and ex<g ref="char:EOLhyphen"/>alt the Righteous Judgment of Chriſt therein. I tell you Chri<g ref="char:EOLhyphen"/>ſtians, the pooreſt and meaneſt Saints of God, whom you oft ſee cloathed in Rags, who are ac<g ref="char:EOLhyphen"/>counted the Sink and Jakes of the World, ſhall ſhortly appear in ſuch Majeſty and Glory, that the higheſt, and proudeſt Ungodly Monarchs in the World will be aſhamed and tormented to look them in the face.</p>
+            <p>
+               <hi>Laſtly,</hi> Conſider what he doth for their Bodies for ever. In three particulars:</p>
+            <pb n="59" facs="tcp:32805:33"/>
+            <p n="1">(1.) He makes their Bodies to be Immortal and Incorruptible, 1 <hi>Cor.</hi> 15.43. Thy Body muſt laſt as long as thy Soul, or as the Angels in Heaven, or as the Bo<g ref="char:EOLhyphen"/>dy of Chriſt: Here the moſt healthful are but a Vapour, which appear but a while, and then vaniſh away, <hi>Jam.</hi> 4.14. What's become of all the bodies of the Men in the Ages before us, which were once in the Streets, Shops, Houſes, and Congrega<g ref="char:EOLhyphen"/>tions, as you ſee the Bodies of Men now? What's become of the bodies of your Parents, Grand<g ref="char:EOLhyphen"/>fathers, and Grandmothers, they are all vaniſht away; but the other World is a World, without Sickneſs, Death, or Graves; your very Bodies muſt live for ever.</p>
+            <p n="2">(2.) They ſhall live in the So<g ref="char:EOLhyphen"/>ciety of Bleſſed Angels. As the Devils are Haters, ſo the Holy Angels are Lovers of Mankind:
+<pb n="60" facs="tcp:32805:34"/>They love the Bodies of Saints, and are undoubtedly Inſtruments of much good to them here; and they ſhall be in the bleſſed Com<g ref="char:EOLhyphen"/>pany of theſe Spirits for ever; See <hi>Zech.</hi> 3.7.</p>
+            <p n="3">3. They ſhall with their glo<g ref="char:EOLhyphen"/>rified bodies, live in the Everlaſt<g ref="char:EOLhyphen"/>ing view and ſight of the glori<g ref="char:EOLhyphen"/>ous body of Chriſt, and of the glorified bodies of one another, <hi>John</hi> 17.24. Thou ſhalt ſee the Body of Chriſt as the Body of thy Husband, Head, and Saviour; thou ſhalt ſee the body of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob, Paul,</hi> and <hi>Peter,</hi> and be able to ſay, This is the Body of <hi>Paul, Peter,</hi> and <hi>John.</hi> This is the body of <hi>Brad<g ref="char:EOLhyphen"/>ford,</hi> and <hi>Philpot,</hi> &amp;c. Your Bo<g ref="char:EOLhyphen"/>dies ſhall be cloahted without Silks, or Sattins; fed without Meat and Drink; Rich without Silver and Gold; and your Bo<g ref="char:EOLhyphen"/>dies and Souls in nearer Commu<g ref="char:EOLhyphen"/>nion
+<pb n="61" facs="tcp:32805:34"/>with God, then they would be here, though in the moſt de<g ref="char:EOLhyphen"/>ſirable frame, you could hear a <hi>Paul</hi> in the Pulpit every day.</p>
+            <p>
+               <hi>Reaſon,</hi> Why is the Lord Jeſus for the Body.</p>
+            <p n="1">1. God the Father hath given our Bodies as well as our Souls to Chriſt, to be made happy by him. <hi>John</hi> 6.39. It's the body that was given to Chriſt to be raiſed up at the laſt day, and not a Finger or Toe ſhall be loſt, if the having of it will make it thy happineſs.</p>
+            <p n="2">2. Chriſt is fitted to be a Sa<g ref="char:EOLhyphen"/>viour of the Body, as well as the Soul, <hi>Heb.</hi> 10.5. Jeſus Chriſt hath the Body, as well as the ſoul of man, which inclines him ſo love Mens Bodies, and his Myſti<g ref="char:EOLhyphen"/>cal Body is to be made of the Bo<g ref="char:EOLhyphen"/>dies of his People, as well as their Souls; who as the Apoſtle ſaith,
+<pb n="62" facs="tcp:32805:35"/>are Members of his Body, Fleſh, and of his Bones, <hi>Eph.</hi> 5.30.</p>
+            <p n="3">3. He carries on the whole Work of Salvation, with reſpect to our Bodies; He dyed for our bodies, roſe again for our Bodies, that they might riſe with him, and he intercedes in Heaven, for our Bodies, and at the day of Judgment will raiſe up, and glo<g ref="char:EOLhyphen"/>riſie our Bodies; for he is the Sa<g ref="char:EOLhyphen"/>viour of the whole Man, Body as well as Soul.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SE</hi> 1. Of Information. Of three things.</p>
+            <p n="1">1. This informs us what an unſpeakable priviledge it is to be a Child of God, to have the Lord of all the World, for our Bodies as well as for our Souls. We would think our ſelves happy, if the Princes, and Nobles, and great ones of the World were for us, if we had their Love, and
+<pb n="63" facs="tcp:32805:35"/>Favour; ſo that they would im<g ref="char:EOLhyphen"/>prove their Power, and Intereſt for our good, but this hath not always been the Lot of Gods Peo<g ref="char:EOLhyphen"/>ple; but the Lord is for us: Infi<g ref="char:EOLhyphen"/>nite Wiſdom and Power, and Goodneſs for us; for Believers are a part of Chriſt, a Self of Chriſt, and certainly he will im<g ref="char:EOLhyphen"/>prove all for the good, and Glo<g ref="char:EOLhyphen"/>ry of his whole Self.</p>
+            <p n="2">2. It informs us of the dread<g ref="char:EOLhyphen"/>ful condition of wicked men what a ſad ſtate are they in both as to their Bodies, and Souls. I am now ſpeaking of the Body, thou haſt got good Meat and Clothes for the Body, good Houſes and Lands for thy Body, but is the Lord for the Body? No, this great Lord is againſt thy Body. Infinite Power, and Wiſdom, and Juſtice will be all ſet on work to torment thy Body. Thou canſt not endure an aching Tooth, a
+<pb n="64" facs="tcp:32805:36"/>broken bone, a fit of the Stone, or Gout: The pains of a Tra<g ref="char:EOLhyphen"/>velling Woman: Oh little doſt thou think what thy Body is to endure for ever. Go and dreſs thy ſelf, make thy ſelf fine, ſet out thy ſelf to the beſt, look in the glaſs, ſee if every hair or pin ſtand right, but remember what that head and face, and arms, and Limbs muſt ſuffer, when they burn in Hell. Oh Sinners, pity your Souls and Bodies, and never reſt till thou haſt got the Lord for thy Body. I tell thee, thy body hath more need of Chriſt, than of Meat and Drink.</p>
+            <p n="3">3. It informs us what are the greateſt and beſt things for the body, you may know this by con<g ref="char:EOLhyphen"/>ſidering what the Lord doth for the body; For certainly Chriſt &amp; his Spouſe live beſt, and fare beſt, and are always moſt happy: And if it were beſt to be Lords and Ladies, Nobles and Princes, do
+<pb n="65" facs="tcp:32805:36"/>you think Chriſt would not make his Members and Spouſe ſuch? Can any be ſo fooliſh as to think that Chriſt doth more for Turks and Pagans, than he doth for himſelf, and for his own Body; and therefore we muſt conclude that the beſt things are amongſt Gods Children to be Holy and Happy, to live a life of Godli<g ref="char:EOLhyphen"/>neſs and Obedience to God, in or<g ref="char:EOLhyphen"/>der to Glory, this muſt needs be the beſt, for this is that which the Lord who is for the Body, doth in Infinite Wiſdom and Love chuſe for, and give to his people; we muſt believe that the beſt and worſt things are reſerv'd. The Wicked for the moſt part have the Gold and Silver, Ho<g ref="char:EOLhyphen"/>nours and Pleaſures of the World, Oh but conſider what is reſerved for them, is reſerved the blackneſs of darkneſs for ever, <hi>Jude</hi> 13. Gods people are often poor, afflicted, and perſe<g ref="char:EOLhyphen"/>cuted
+<pb n="66" facs="tcp:32805:37"/>in this World: <hi>But there is an Inheritance Incorruptable that fadeth not away, reſerved in the Heavens for them,</hi> 2 <hi>Pet.</hi> 1.4. Its a ſweet comfort to think that thoſe things which are beſt at preſent, are moſt durable: If ſpiri<g ref="char:EOLhyphen"/>tual things were to laſt no longer than the Vanities of the World, yet for the preſent, they are bet<g ref="char:EOLhyphen"/>ter than the Riches, Honours, and Pleaſures of the World; if we had but a day in Gods Courts, its better than a Thouſand elſe<g ref="char:EOLhyphen"/>where, <hi>Pſ.</hi> 84. but they are not only incomparably beſt at pre<g ref="char:EOLhyphen"/>ſent, but they are Everlaſting.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SE</hi> 2. Of Comfort to the Godly: In three Particulars.</p>
+            <p n="1">1. This ſecures to us the Pro<g ref="char:EOLhyphen"/>vidence and Care of God in out<g ref="char:EOLhyphen"/>word things for the Body. The Lord is ſo for the Body, that
+<pb n="67" facs="tcp:32805:37"/>we may be aſſured the body ſhall not want any thing that is good for us in order to our Eternal Happineſs. Indeed its fit we ſhould leave it to God, who hath more Wiſdom to know what is good for us, and more love to give what is good for us, than we have; to chuſe to do us good in his own way. He knows beſt how to uſe his own care, to ex<g ref="char:EOLhyphen"/>erciſe his own Providence, and to ſhew his own Love, its enough for us to know that the Lord, with the Infinite Wiſdom, Po<g ref="char:EOLhyphen"/>wer, and Love of the Godhead is for us, ſo as to be the Cauſe of our Eternal Happineſs; but ſeeing we may believe that this will be the effect, and that the cauſe is ſufficient to work it, we may well leave it to God to take his own way to make us bleſſed; Obſerve our Saviour; <hi>Luk.</hi> 13.32. <hi>Fear not little Flock,</hi> &amp;c. Chriſt is
+<pb n="68" facs="tcp:32805:38"/>there pleading againſt our inor<g ref="char:EOLhyphen"/>dinate care about the Body; and ſaith he, <hi>Fear not, for it's your Fa<g ref="char:EOLhyphen"/>thers good Pleaſure to give you the Kingdom of Heaven,</hi> and there<g ref="char:EOLhyphen"/>fore ſhall not want what is good for you in your way thither.</p>
+            <p n="2">2. Comfort againſt all the E<g ref="char:EOLhyphen"/>nemies of your Bodies, we have more for the Body than can be againſt it: For the Lord is for the Body, and if God be for us, who can be againſt us, <hi>Rom.</hi> 8.21. And on this account, fear not them that can kill the Body: For if the Lord be for the Bo<g ref="char:EOLhyphen"/>dy, fear not all that Wicked Men can do to the Body, let them ſpoil us, impoveriſh us, impri<g ref="char:EOLhyphen"/>ſon, kill us, yet they do but ful<g ref="char:EOLhyphen"/>fil the Counſels of the Lord for the Body: For as long as the Lord is for the Body, things that are ſeemingly againſt the Body, are indeed for the body, for the
+<pb n="69" facs="tcp:32805:38"/>Lord rules all, and turns it to the Welfare of the Body.</p>
+            <p n="3">3. Comfort againſt Death: If the Lord is for the Body, then Death is for the Body too: It comes from the Lord as a bleſſing on the Body, to fulfil his good Will and Counſel concerning it; and therefore welcome Death, the Body cannot be happy in this World: This World of Meat and Drink, and Money, <hi>&amp;c.</hi> Cannot ſo much as make the body of Man happy; the Body muſt die, or at leaſt be changed before it can be happy. And therefore take a full view of Death, of the Grave, of Worms, of Rottenneſs, See <hi>Job</hi> 19.25, 26, 27. <hi>I know that my Redeemer lives,</hi> &amp;c. Believe this, that the Lord is for the Body, and then ſay, Death take my Body, Grave cover my Body, Worms eat my Body, yet the Lord will be ſtill
+<pb n="70" facs="tcp:32805:39"/>for the Body, and he will raiſe it up; I ſhall ſee him, and ſtand before him at the laſt day, and be like him, and appear with him in Glory.</p>
+            <p>Laſt uſe of Exhortation to three Duties.</p>
+            <p n="1">1. Bleſs the Lord for what he doth for the body: Its the Lord that gives you Life, Health, Li<g ref="char:EOLhyphen"/>berty and Eſtates; and there<g ref="char:EOLhyphen"/>fore obſerve and take notice of the Lord in all your Mercies to the body. You which are Tradeſ<g ref="char:EOLhyphen"/>men, if a Cuſtomer come into the Shop, its the Lord which ſends him for thy good, and deal with him as coming from the Lord. See your Tables fill'd with the Lord, eſpecially if you were ever enabled to do him any bodily ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p n="2">2. Pray to the Lord for the body; there is care and love in the Lord for the body, but it muſt be drawn out by Prayer: As
+<pb n="71" facs="tcp:32805:39"/>there is Milk in the Mothers breaſt, for the child, but the child muſt ſuck and draw it out of the breaſts into his own body; ſo we muſt by Faith and Prayer, ſuck and draw out Mercies from the Lord both for Soul and Body.</p>
+            <p n="3">3. Live as thoſe who look for the Lord Jeſus, to ſhew himſelf for the body; to make the body compleatly bleſſed and happy, <hi>Rom.</hi> 8.28. <hi>We groan within our ſelves,</hi> &amp;c. Obſerve, We groan within our ſelves, <hi>viz.</hi> in the moſt inward parts of Hearts and Souls, waiting for the Adoption, <hi>viz.</hi> the full poſſeſſion of the In<g ref="char:EOLhyphen"/>heritance which by Adoption be<g ref="char:EOLhyphen"/>longs to us, <hi>viz.</hi> the Redempti<g ref="char:EOLhyphen"/>on of our Bodies. We look and wait that our bodies be freed from Sin and Death, and made perfectly glorious with Chriſt, let us live as thoſe who look for ſuch things.</p>
+            <pb n="72" facs="tcp:32805:40"/>
+            <p n="1">(1.) As ever you expect to be like Chriſt at the Day of Judg<g ref="char:EOLhyphen"/>ment, Labour to be like him now, 1 <hi>John</hi> 3.2, 3.</p>
+            <p n="2">(2.) Labour to be ſuch as Chriſt may own you, and accept you at the day of Judgment, 2 <hi>Pet.</hi> 3.13, 14. 2 <hi>Cor.</hi> 5.9. Do nothing but what you are wil<g ref="char:EOLhyphen"/>ling Chriſt ſhould come in the Clouds, and find you doing, do nothing but what Chriſt will ac<g ref="char:EOLhyphen"/>cept of, and reward you for, when you muſt ſee him with thoſe Eyes, and in your Fleſh ſtand before him.</p>
+         </div>
+         <div type="biography">
+            <pb n="73" facs="tcp:32805:40"/>
+            <head>The LIFE of Mr. <hi>Gilbert Lorimer,</hi> Late MERCHANT of LONDON.</head>
+            <p>MR. <hi>Gilbert Lorimer,</hi> late Merchant of <hi>London</hi> was accompliſhed with Lear<g ref="char:EOLhyphen"/>ning and Parts: He was Maſter of the <hi>Latin</hi> Tongue, and under<g ref="char:EOLhyphen"/>ſtood ſeveral other Languages.</p>
+            <p>He was moſt inclin'd to ſtudy <hi>Divinity,</hi> but by reaſon of his Bodily weakneſs, and becauſe he could not comply with the terms of Conformity, (though he much valued all ſober, good Confor<g ref="char:EOLhyphen"/>miſts.)
+<pb n="74" facs="tcp:32805:41"/>He applyed himſelf to Merchandiſe, wherein he was skilful, diligent, and juſt and faithful: When he was about Thirteen or Fourteen years old, it pleaſed God to turn his Heart to himſelf; he told a Holy and Judicious Perſon nearly Related to him, the Time when, and Place where Infinite Grace began that bleſſed Work: wherein ſomething was ſo ſignal that made ſuch an abiding Impreſſion upon him, as to ſay with <hi>David, Pſal.</hi> 119.93. <hi>I will never forget thy Precepts, for with them thou haſt quickned me.</hi> It pleaſed God to exerciſe him with divers Afflicti<g ref="char:EOLhyphen"/>ons, eſpecially Bodily Diſtem<g ref="char:EOLhyphen"/>pers, which for four or five years before he died, were often ac<g ref="char:EOLhyphen"/>companied with ſtinging Pains; but in all God had his Heart and Love, and he poſſeſſed his Soul in Patience: This is evident by
+<pb n="75" facs="tcp:32805:41"/>ſeveral Letters which he writ to his Holy, Learned, and Judicious Brother, Mr. <hi>William Lorimer,</hi> Miniſter of the Goſpel, part of which I thought ſit to Communi<g ref="char:EOLhyphen"/>cate.</p>
+            <p>In <hi>Feb</hi> 23.168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, After his Re<g ref="char:EOLhyphen"/>covery from a dangerous Sick<g ref="char:EOLhyphen"/>neſs, he writ to him thus, <hi>What ſhall I render to the Lord for all his benefits, who healeth my Diſeaſes, and crowneth me with loving kind<g ref="char:EOLhyphen"/>neſs, and tender Mercies. O that I may no more live to my ſelf, but to God my moſt Gracious and Al<g ref="char:EOLhyphen"/>mighty Deliverer; for this I deſire your Prayers, and to return thanks to God through Jeſus Chriſt on my behalf.</hi>
+            </p>
+            <p>On <hi>June</hi> 7. 1687. He wrote to him of the Death of their Dear Mother: Some of his Words therein are theſe: <hi>O that through the hope of our being alſo with the Lord, we may purifie our ſelves as
+<pb n="76" facs="tcp:32805:42"/>he is pure, that we may deſpiſe what<g ref="char:EOLhyphen"/>ſoever in this World would take us off from the Love of Chriſt. Bleſſed Jeſus, draw our Hearts to thy ſelf in Heaven, where thou ſitteſt at the Right Hand of the Father, that Death may be the Meſſenger to open the Priſon Doors, that we may flee away, and be at reſt with Chriſt the beloved of our Souls,</hi> Amen.</p>
+            <p>In <hi>September</hi> following, his for<g ref="char:EOLhyphen"/>mer Diſtemper, returned with greater force: But when by means of two able Phyſitians he had ſome eaſe, he wrote to his Brother aforeſaid, on <hi>Septemb,</hi> 12. 1687, wherein among many other of the like Nature, are theſe words, <hi>Lord ſupport and com<g ref="char:EOLhyphen"/>fort me under my Bodily Pains, and grant that I may wholy reſign my ſelf to the will of my Heavenly Fa<g ref="char:EOLhyphen"/>ther. I deſire your Prayers, al<g ref="char:EOLhyphen"/>though I am chaſtiſed ſorely: Yet the Lord will not give me over unto
+<pb n="77" facs="tcp:32805:42"/>Death, not to a Temporal Death, ſo long as the continuance of Life may be for his Glory and my good; however I ſtedfaſtly truſt in the Infi<g ref="char:EOLhyphen"/>nite Mercy of God, through the per<g ref="char:EOLhyphen"/>fect Obedience, Sacrifice, and Inter<g ref="char:EOLhyphen"/>ceſſion of my Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt, that the ſecond Death ſhall never have power over me.</hi>
+            </p>
+            <p>On <hi>Sept.</hi> 24. 1687. He writ to his Brother in Anſwer to one of his to him, wherein he ſaith, <hi>I have received your very comforta<g ref="char:EOLhyphen"/>ble and Chriſtian Letter, the only fault in it is, that it runs in ex<g ref="char:EOLhyphen"/>preſſions more ſuitable to thoſe who are in ſome</hi> high degree <hi>of Chriſti<g ref="char:EOLhyphen"/>an perfection, than to me a vile ſin<g ref="char:EOLhyphen"/>ner; I am nothing, but Chriſt is all in all in me, and for me, adding his pain was much abated, for which</hi> (ſaid he) <hi>Magnifie the Lord with me, and let us exalt his Name together; Salvation and Glory be aſcribed to the God of Salvation,
+<pb n="68" facs="tcp:32805:43"/>pray rather for a ſanctified uſe of my Afflictions, than for deliverance from them; and O that the conſide<g ref="char:EOLhyphen"/>ration of the ſhortneſs of them, may keep me from being weary of the chaſtening of the Lord, or fainting when I am rebuked of him.</hi>
+            </p>
+            <p>In a Letter of <hi>Octob.</hi> 15. 1687. He gave notice to his Brother of another Relapſe into Sickneſs, wherein he ſaith, <hi>I deſire to bleſs God for the good of my Soul through the Afflictions of my Body, pray that I may improve my Afflictions unto Victory over Sin, and increaſe in all Grace.</hi>
+            </p>
+            <p>On <hi>November</hi> 22. 1687. He wrote how ill he was, ſaying with <hi>David, Day and night thy hand is heavy upon me: It is the Lord, let him do with me what ſee<g ref="char:EOLhyphen"/>meth him good: I am his by right of Creation, and therefore at the diſpo<g ref="char:EOLhyphen"/>ſal of his Sovereign Will, and I am alſo his by right of Redemption and
+<pb n="79" facs="tcp:32805:43"/>Purchaſe in the Blood of Chriſt, and therefore he will ſave me, if not with a Temporal, yet with an Ever<g ref="char:EOLhyphen"/>laſting Salvation, in hopes whereof I deſire to poſſeſs my Soul in Pa<g ref="char:EOLhyphen"/>tience.</hi>
+            </p>
+            <p>His laſt Letter to his Brother was on <hi>July</hi> 14. 1688. wherein after he had given him account of his preſent Diſtemper he ſaith, <hi>Lord help me, that I may be more and more fitted for Commu<g ref="char:EOLhyphen"/>nion with God here, and for the full enjoyment of him for ever; of which I am an Expectant through the alone Merits, and Mediation of Je<g ref="char:EOLhyphen"/>ſus Chriſt my ever bleſſed Lord and Saviour.</hi>
+            </p>
+            <p>About a Moneth before he dy<g ref="char:EOLhyphen"/>ed, his Worthy Brother heard him often ſay as he lay awake in the Night on his Bed, <hi>Come Lord Jeſus,</hi> Amen, <hi>Even ſo come Lord Jeſus.</hi>
+            </p>
+            <p>I was with him about half an
+<pb n="80" facs="tcp:32805:44"/>hour before he dyed; he conti<g ref="char:EOLhyphen"/>nued to the laſt both theſame Man in the uſe of his Reaſon, and the ſame Chriſtian in the Exerciſe of Grace; I deſire his ſurviving Re<g ref="char:EOLhyphen"/>lations will never forget his Coun<g ref="char:EOLhyphen"/>ſel and Example which they heard and ſaw.</p>
+            <p>This <hi>Iſraelite</hi> indeed paſſed in<g ref="char:EOLhyphen"/>to the World without Sin, on <hi>Octob.</hi> 26. 1688.</p>
+            <p>I was ever tender of what I ſaid on ſuch occaſions as this, ma<g ref="char:EOLhyphen"/>king Conſcience of theſe 2 things.</p>
+            <p n="1">I. To give no Perſon that Cha<g ref="char:EOLhyphen"/>racter in my Words, which they have not in my Heart.</p>
+            <p n="2">II. To ſpeak nothing of any one when they are dead, which I did not think, or ſpeak of them whilſt they were alive; but I had perſo<g ref="char:EOLhyphen"/>nal knowledge of him for many years, and therefore have given this true Relation.</p>
+            <closer>
+               <signed>Edward Lawrence.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32805:44"/>
+         </div>
+      </body>
+   </text>
+</TEI>
